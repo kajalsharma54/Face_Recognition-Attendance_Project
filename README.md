@@ -18,4 +18,4 @@ Software
 Contributors
 
 * Kritika 
-* Haider
+* Ufaqhaider
